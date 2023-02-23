@@ -35,7 +35,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#FFFFFF"
-            android:text=" Total sum = $ "
+            android:text=" Total sum = Rs. "
             android:layout_marginLeft="30dp"
             android:textSize="20dp"
             android:textStyle="bold"
