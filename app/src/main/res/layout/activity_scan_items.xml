@@ -15,7 +15,7 @@
 
         android:layout_marginLeft="85dp"
         android:layout_marginTop="0dp"
-        android:fontFamily="@font/allura"
+        android:fontFamily="@font/starsight"
         android:text="Scan Items"
         android:textColor="#C1F8B0B0"
         android:textSize="45dp"
@@ -55,7 +55,7 @@
         android:id="@+id/searchbtnn"
         android:layout_marginLeft="150dp"
         android:text="Search"
-        android:textColor="#F7F2F2"/>
+        android:textColor="#ffff"/>
 
 
     <android.support.v7.widget.RecyclerView
