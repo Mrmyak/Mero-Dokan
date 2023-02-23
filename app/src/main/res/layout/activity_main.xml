@@ -15,18 +15,18 @@
         android:layout_height="347dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="28dp"
+        android:layout_marginTop="20dp"
         app:srcCompat="@drawable/inventory" />
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="221dp"
+        android:layout_width="400dp"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/imageView3"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="-106dp"
-        android:fontFamily="@font/allura"
-        android:text="augScan"
+        android:fontFamily="@font/starsight"
+        android:text="Mero Dokan"
         android:textColor="#C1F8B0B0"
         android:textSize="63dp"
         android:textStyle="bold" />
