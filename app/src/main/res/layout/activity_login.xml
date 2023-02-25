@@ -16,7 +16,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="22dp"
-        app:srcCompat="@drawable/inventory" />
+        app:srcCompat="@drawable/inventoryy" />
 
     <TextView
         android:id="@+id/textView"
