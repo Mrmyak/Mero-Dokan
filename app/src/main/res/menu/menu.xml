@@ -15,24 +15,8 @@
 
     </item>
 
-    <!--<item-->
 
-        <!--android:id="@+id/ProfileMenu"-->
-        <!--android:orderInCategory="100"-->
-        <!--android:title="Profile"-->
-        <!--android:icon="@drawable/ic_account_circle_blue_24dp"-->
-        <!--app:showAsAction="collapseActionView">-->
 
-    <!--</item>-->
-
-    <!--<item-->
-
-        <!--android:id="@+id/SettingMenu"-->
-        <!--android:orderInCategory="200"-->
-        <!--android:title="Setting"-->
-        <!--android:icon="@drawable/ic_settings_blue_24dp"-->
-        <!--app:showAsAction="collapseActionView">-->
-    <!--</item>-->
 
     </menu>
 

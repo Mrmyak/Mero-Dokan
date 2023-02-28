@@ -1,4 +1,4 @@
-package com.example.admin.augscan;
+package com.example.admin.merodokan;
 
 import org.junit.Test;
 

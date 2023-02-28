@@ -1,4 +1,4 @@
-package com.example.admin.augscan;
+package com.example.admin.merodokan;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

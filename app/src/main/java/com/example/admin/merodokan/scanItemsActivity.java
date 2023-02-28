@@ -1,4 +1,4 @@
-package com.example.admin.augscan;
+package com.example.admin.merodokan;
 
 import android.content.Context;
 import android.content.Intent;

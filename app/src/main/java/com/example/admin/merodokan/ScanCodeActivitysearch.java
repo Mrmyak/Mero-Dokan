@@ -1,4 +1,4 @@
-package com.example.admin.augscan;
+package com.example.admin.merodokan;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -11,7 +11,7 @@ import com.google.zxing.Result;
 
 import me.dm7.barcodescanner.zxing.ZXingScannerView;
 
-public class ScanCodeActivity extends AppCompatActivity implements ZXingScannerView.ResultHandler {
+public class ScanCodeActivitysearch extends AppCompatActivity implements ZXingScannerView.ResultHandler {
 
     int MY_PERMISSIONS_REQUEST_CAMERA=0;
 
@@ -26,7 +26,7 @@ public class ScanCodeActivity extends AppCompatActivity implements ZXingScannerV
     @Override
     public void handleResult(Result result) {
 
-        additemActivity.resulttextview.setText(result.getText());
+        scanItemsActivity.resultsearcheview.setText(result.getText());
 
         onBackPressed();
     }
